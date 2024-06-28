@@ -5,6 +5,7 @@
 
 Modify a .rdp file to add your credentials (password will be hashed). You provide a .rdp file and enter your credentials.
 If you have already run the program on a .rdp file before, or the .rdp file already has credentials, the program will replace the existing credentials when you run the program.
+
 ![alt text](https://i.imgur.com/GxlU6lL.png)
 ## Getting Started
 
