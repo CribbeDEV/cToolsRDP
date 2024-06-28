@@ -26,7 +26,7 @@ If you have already run the program on a .rdp file before, or the .rdp file alre
 
 ## Version History
 
-* 0.1
+* 1.0.0
     * Initial Release
 
 ## License
